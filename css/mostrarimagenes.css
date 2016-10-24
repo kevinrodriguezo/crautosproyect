@@ -1,0 +1,61 @@
+.plantillaimage{
+	width: 98%;
+	height: 800px;
+	background-color:#424949;
+	display: block;
+	margin-left: 10px;
+}
+#mainimage{
+	display: flex;
+	justify-content: center;
+	width: 100%;
+	height: 250px;
+	margin-top: 20px;
+	margin-bottom: 10px;
+}
+#imagenes{
+	margin-left: 13%;
+}
+th {
+    background-color: #117A65;
+    color: white;
+}
+
+table {
+    width: 100%;
+}
+
+th {
+    height: 50px;
+}
+th{
+    text-align: center;
+}
+td{
+	text-align: center;
+}
+
+tr:nth-child(even) {background-color: #f2f2f2}
+table{
+	border: 
+}
+tr:hover{
+	background-color: #0B5345;
+	cursor: pointer;
+	color: #fff;
+}
+.red{
+	background-color: red;
+	cursor: pointer;
+}
+.red:hover{
+	background-color: blue;
+}
+button:first-of-all{
+	display: none;
+}
+#contenedor{
+	width: 80%;
+	background-color: #c4c4c4;
+	margin-left: 10%;
+}
