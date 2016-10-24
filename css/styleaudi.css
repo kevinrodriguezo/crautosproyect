@@ -105,7 +105,7 @@ display: flex;*/
 
 .plantilla{
 	width: 98%;
-	height: 1350px;
+	height: 1360px;
 	background-color:#424949;
 	display: block;
 	margin-left: 10px;
@@ -116,10 +116,10 @@ display: flex;*/
 	font-family: fantasy;
 }
 .logomarca{
-	width: 90%;
+	width: 83%;
 	height: 60px;
 	margin-top: -15px;
-	margin-left: 60px;
+	margin-left: 110px;
 }
 .flex-container{
 	width:80%;
@@ -132,6 +132,7 @@ display: flex;*/
 #container1{
 justify-content: space-between;
 flex-direction: row;
+margin-top: 0px;
 }
 #container2{
 	justify-content: space-between;
