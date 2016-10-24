@@ -8,8 +8,8 @@ opacity: 1.0;
 filter: alpha(opacity=100);
 }
 .slider{
-width: 80%;
-height: -1800px;
+width: 1300px;
+height:800px;
 margin: auto;
 overflow: hidden;
 }
@@ -90,9 +90,9 @@ display: block;
 position: relative;
 }
 .nav li{
-	width: 262px;
-	height: 100%;
-	transform: translateX(90px); 
+	width: 300px;
+	height: 1600%;
+	transform: translateX(10px); 
 }
 body{
 background-color: black;
@@ -105,7 +105,7 @@ display: flex;*/
 
 .plantilla{
 	width: 98%;
-	height: 1350px;
+	height: 1550px;
 	background-color:#424949;
 	display: block;
 	margin-left: 10px;
